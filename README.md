@@ -1,5 +1,7 @@
-# vulcanus-proxmox
+# Dude-proxmox
 Starting with Proxmox &amp; Ansible and building out from there
+
+(thamks to the original idea from vulcanus-proxmox)
 
 
 # Required environment variables
